@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "5af7914bcf184064074a2b03ea5da6ae"
+build_time: [514494407, 265275000]
+inputs:
+  "/Users/VidSecki/PovioLabs/test/testXcode/testXcode/ViewController.swift": [514494400, 0]
+  "/Users/VidSecki/PovioLabs/test/testXcode/testXcode/AppDelegate.swift": [514494400, 0]
