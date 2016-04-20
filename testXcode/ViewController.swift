@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     //dela ziher neki.
+    //spremeba samo na develop branchu
 
 }
 
